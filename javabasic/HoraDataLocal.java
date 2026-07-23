@@ -18,3 +18,11 @@ public class HoraDataLocal {
         System.out.println("Local: " + local);
     }
 }
+
+/*
+Codigo compilado 
+    
+Data: 2026-07-23
+Hora: 16:30:12.345678900
+Local: Manaus
+*/    
