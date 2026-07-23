@@ -20,8 +20,7 @@ public class HoraDataLocal {
 }
 
 /*
-Codigo compilado 
-    
+Exemplo de saída:
 Data: 2026-07-23
 Hora: 16:30:12.345678900
 Local: Manaus
